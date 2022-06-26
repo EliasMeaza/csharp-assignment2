@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\bin\Debug\net6.0\csharp-assignment2.exe
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\bin\Debug\net6.0\csharp-assignment2.deps.json
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\bin\Debug\net6.0\csharp-assignment2.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\bin\Debug\net6.0\csharp-assignment2.dll
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\bin\Debug\net6.0\csharp-assignment2.pdb
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.dll
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\refint\csharp-assignment2.dll
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.pdb
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\csharp-assignment2.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\csharp-assignment2\csharp-assignment2\csharp-assignment2\obj\Debug\net6.0\ref\csharp-assignment2.dll
