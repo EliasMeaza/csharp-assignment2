@@ -43,8 +43,8 @@ namespace information
             } while (course == "");
             Console.WriteLine("This is your information");
             Console.WriteLine("Name :-"+name);
-            Console.WriteLine("Name :-" + age); 
-            Console.WriteLine("Name :-" + course);
+            Console.WriteLine("age " + age); 
+            Console.WriteLine("course:-" + course);
             Console.ReadLine();
 
 
